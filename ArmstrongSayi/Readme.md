@@ -1,4 +1,4 @@
-#Armstrong Sayı Bulma 
+Armstrong Sayı Bulma 
 Girilen bir sayının armstrong sayı olup olmadığını hesaplamaktadır.
 ---
 Armstrong sayı: Örneğin 4 basamaklı bir sayının armstrong sayı olabilmesi için aşağıdaki şartı sağlaması gerekmedtedir.<br>
